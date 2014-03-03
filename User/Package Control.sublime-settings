@@ -6,11 +6,15 @@
 		"GitGutter",
 		"Neon Color Scheme",
 		"Pretty JSON",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-json",
 		"SublimeLinter-pep8",
+		"SublimeREPL",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
 		"TrailingSpaces"
 	]
 }
