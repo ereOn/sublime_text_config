@@ -7,6 +7,7 @@
 		"Neon Color Scheme",
 		"Pretty JSON",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-json"
 	]
