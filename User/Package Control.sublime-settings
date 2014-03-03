@@ -1,8 +1,10 @@
 {
 	"installed_packages":
 	[
+		"C++11",
 		"Git",
 		"GitGutter",
-		"MarkdownEditing"
+		"MarkdownEditing",
+		"Neon Color Scheme"
 	]
 }
