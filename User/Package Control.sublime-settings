@@ -4,6 +4,8 @@
 		"C++11",
 		"Git",
 		"GitGutter",
-		"Neon Color Scheme"
+		"Neon Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck"
 	]
 }
