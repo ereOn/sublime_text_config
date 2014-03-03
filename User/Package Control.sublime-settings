@@ -5,7 +5,9 @@
 		"Git",
 		"GitGutter",
 		"Neon Color Scheme",
+		"Pretty JSON",
 		"SublimeLinter",
-		"SublimeLinter-cppcheck"
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-json"
 	]
 }
