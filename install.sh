@@ -3,7 +3,7 @@
 ROOT_PATH="$HOME/Library/Application Support/Sublime Text 3"
 PACKAGES_PATH="$ROOT_PATH/Packages"
 INSTALL_PACKAGES_PATH="$ROOT_PATH/Installed Packages"
-USER_SETTINGS_PATH="$PACKAGES_PATH/User"
+USER_SETTINGS_PATH="$PACKAGES_PATH/"
 LOCAL_USER_SETTING_PATH="$(pwd)/User"
 SUBL_PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
 SUBL_INSTALL_PATH="/usr/bin/subl"
