@@ -10,6 +10,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-json",
-		"SublimeLinter-pep8"
+		"SublimeLinter-pep8",
+		"TrailingSpaces"
 	]
 }
