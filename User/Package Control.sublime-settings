@@ -9,6 +9,7 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-cppcheck",
-		"SublimeLinter-json"
+		"SublimeLinter-json",
+		"SublimeLinter-pep8"
 	]
 }
