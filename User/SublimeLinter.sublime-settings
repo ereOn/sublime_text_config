@@ -22,7 +22,7 @@
       "cppcheck": {
         "@disable": false,
         "args": [],
-        "enable": "all",
+        "enable": "warning,style,performance,portability,information,missingInclude",
         "excludes": [],
         "std": [
           "c++11"
