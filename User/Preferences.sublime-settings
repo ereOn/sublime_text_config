@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
-	"ensure_newline_at_eof_on_save": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"theme": "Soda Dark.sublime-theme"
+  "color_scheme": "Packages/User/Tomorrow-Night (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "ignored_packages": [
+    "Vintage"
+  ],
+  "theme": "Soda Dark.sublime-theme",
+  "draw_white_space": "all"
 }
