@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Anaconda",
 		"ApacheConf.tmLanguage",
 		"AutoPEP8",
 		"C++11",
